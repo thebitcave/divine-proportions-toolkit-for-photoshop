@@ -1,0 +1,1 @@
+﻿/*    Generates an horizontal Golden Spiral  included in a frame*/#target photoshop#include "Common.jsx"var shapeName = "Golden Spiral";#include "ScriptOpen.jsx"     makeGoldenRectangleSelection(true);    addFrame();    addCurveSections(true);#include "ScriptClose.jsx"

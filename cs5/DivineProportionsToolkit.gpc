@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpc defaultLocale="en_US" version="3" keySequence="147" currentLocale="en_US">
+  <product appid="PHSP" version="12" name="Photoshop CS5/CS5.1"/>
+  <target id="PHSP-12"/>
+  <ConfiguratorPanel name="Divine Proportions Toolkit" width="320" height="340" minWidth="320" minHeight="340" maxWidth="320" maxHeight="340" init="doInit" close="doClose" persistent="true" extensionId="com.thebitcave.divineproportionstoolkit" extensionVersion="1.0.1" menuName="Divine Proportions Toolkit" normalIcon="icons/app_icon_up.png" rollOverIcon="icons/app_icon_over.png">
+    <onInit><![CDATA[]]></onInit>
+    <extensionDescription><![CDATA[]]></extensionDescription>
+    <extensionAuthor><![CDATA[The Bit Cave]]></extensionAuthor>
+    <onClose><![CDATA[]]></onClose>
+    <eventListeners>
+      <function id="doInit" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onInit"/>
+      </function>
+      <function id="doClose" actionType="jsfunction" jsFunctionName="invoke_script">
+        <param id="onClose"/>
+      </function>
+    </eventListeners>
+    <vbox _itemId="container_vbox" toolTip="$$$/Configurator/Container/VBox/desc" label="$$$/Configurator/key_###1" height="" cfgVisible="$$$/Configurator/Attribute/visible/value###2" top="5" bottom="5" left="5" right="5">
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###3" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###4" x="20" y="5">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###5" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###6" cfgVisible="$$$/Configurator/Attribute/visible/value###7" fileUrl="$$$/Configurator/key_###8" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###9" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###10" cfgVisible="$$$/Configurator/Attribute/visible/value###11" fileUrl="$$$/Configurator/key_###12" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###13" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###14" x="33" y="49">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###15" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###16" cfgVisible="$$$/Configurator/Attribute/visible/value###17" fileUrl="$$$/Configurator/key_###18" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="2" y="4" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###19" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###20" cfgVisible="$$$/Configurator/Attribute/visible/value###21" fileUrl="$$$/Configurator/key_###22" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="191" y="6" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###23" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###24" x="39" y="62">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###29" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###30" cfgVisible="$$$/Configurator/Attribute/visible/value###31" fileUrl="$$$/Configurator/key_###32" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="49" y="9" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###33" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###34" cfgVisible="$$$/Configurator/Attribute/visible/value###35" fileUrl="$$$/Configurator/key_###36" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="170" y="-2" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###47" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###48" cfgVisible="$$$/Configurator/Attribute/visible/value###49" fileUrl="$$$/Configurator/key_###50" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="214" y="5" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###53" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###54" cfgVisible="$$$/Configurator/Attribute/visible/value###55" fileUrl="$$$/Configurator/key_###56" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="66" y="3" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###37" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###38" x="42" y="93">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###39" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###40" cfgVisible="$$$/Configurator/Attribute/visible/value###41" fileUrl="$$$/Configurator/key_###42" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="42" y="0" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###43" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###44" cfgVisible="$$$/Configurator/Attribute/visible/value###45" fileUrl="$$$/Configurator/key_###46" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="118" y="-4" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###69" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###70" cfgVisible="$$$/Configurator/Attribute/visible/value###71" fileUrl="$$$/Configurator/key_###72" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="191" y="-2" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###51" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###52" x="40" y="115">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###61" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###62" cfgVisible="$$$/Configurator/Attribute/visible/value###63" fileUrl="$$$/Configurator/key_###64" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="23" y="1" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###65" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###66" cfgVisible="$$$/Configurator/Attribute/visible/value###67" fileUrl="$$$/Configurator/key_###68" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="130" y="2" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###107" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###108" cfgVisible="$$$/Configurator/Attribute/visible/value###109" fileUrl="$$$/Configurator/key_###110" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="15" y="-1" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###73" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###74" x="17" y="136">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###75" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###76" cfgVisible="$$$/Configurator/Attribute/visible/value###77" fileUrl="$$$/Configurator/key_###78" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="15" y="-1" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###79" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###80" cfgVisible="$$$/Configurator/Attribute/visible/value###81" fileUrl="$$$/Configurator/key_###82" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="15" y="-1" width="100%"/>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###97" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###98" x="27" y="160">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###99" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###100" cfgVisible="$$$/Configurator/Attribute/visible/value###101" fileUrl="$$$/Configurator/key_###102" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="13" y="0" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###103" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###104" cfgVisible="$$$/Configurator/Attribute/visible/value###105" fileUrl="$$$/Configurator/key_###106" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" x="13" y="0" width="100%"/>
+      </hbox>
+      <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc" width="100%" height="1" cfgVisible="$$$/Configurator/Attribute/visible/value###121"/>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###115" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###116" x="68" y="191">
+        <ps_command _itemId="Edit-FreeTransform" scriptID="Edit-FreeTransform" toolTip="$$$/Edit/FreeTransform/desc" label="$$$/Edit/FreeTransform/name" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###117" x="18" y="-1" width="100%">
+          <script><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( "slct" ); var desc74 = new ActionDescriptor(); var idnull = charIDToTypeID( "null" ); var ref40 = new ActionReference(); var idMn = charIDToTypeID( "Mn  " ); var idMnIt = charIDToTypeID( "MnIt" ); var idFrTr = charIDToTypeID( "FrTr" ); ref40.putEnumerated( idMn, idMnIt, idFrTr ); desc74.putReference( idnull, ref40 ); executeAction( idslct, desc74, DialogModes.ALL );} catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+          <eventListeners>
+            <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+              <param id="script"/>
+            </function>
+          </eventListeners>
+        </ps_command>
+        <ps_command _itemId="Edit-Transform-FlipHorizontal" scriptID="Edit-Transform-FlipHorizontal" toolTip="$$$/Edit/Transform/FlipHorizontal/desc" label="$$$/Edit/Transform/FlipHorizontal/name" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###118" x="103" y="7" width="100%">
+          <script><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idFlip = charIDToTypeID( "Flip" ); var desc85 = new ActionDescriptor(); var idAxis = charIDToTypeID( "Axis" ); var idOrnt = charIDToTypeID( "Ornt" ); var idHrzn = charIDToTypeID( "Hrzn" ); desc85.putEnumerated( idAxis, idOrnt, idHrzn ); executeAction( idFlip, desc85, DialogModes.ALL );} catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+          <eventListeners>
+            <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+              <param id="script"/>
+            </function>
+          </eventListeners>
+        </ps_command>
+        <ps_command _itemId="Edit-Transform-FlipVertical" scriptID="Edit-Transform-FlipVertical" toolTip="$$$/Edit/Transform/FlipVertical/desc" label="$$$/Edit/Transform/FlipVertical/name" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###119" x="190" y="5" width="100%">
+          <script><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idFlip = charIDToTypeID( "Flip" ); var desc86 = new ActionDescriptor(); var idAxis = charIDToTypeID( "Axis" ); var idOrnt = charIDToTypeID( "Ornt" ); var idVrtc = charIDToTypeID( "Vrtc" ); desc86.putEnumerated( idAxis, idOrnt, idVrtc ); executeAction( idFlip, desc86, DialogModes.ALL );} catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+          <eventListeners>
+            <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+              <param id="script"/>
+            </function>
+          </eventListeners>
+        </ps_command>
+        <ps_command _itemId="Edit-Transform-Rotate" scriptID="Edit-Transform-Rotate" toolTip="$$$/Edit/Transform/Rotate/desc" label="$$$/Edit/Transform/Rotate/name" click="onClick" cfgVisible="$$$/Configurator/Attribute/visible/value###120" x="260" y="6" width="100%">
+          <script><![CDATA[ErrStrs = {}; ErrStrs.USER_CANCELLED=localize("$$$/ScriptingSupport/Error/UserCancelled=User cancelled the operation"); try {var idslct = charIDToTypeID( "slct" ); var desc77 = new ActionDescriptor(); var idnull = charIDToTypeID( "null" ); var ref42 = new ActionReference(); var idMn = charIDToTypeID( "Mn  " ); var idMnIt = charIDToTypeID( "MnIt" ); var idRtte = charIDToTypeID( "Rtte" ); ref42.putEnumerated( idMn, idMnIt, idRtte ); desc77.putReference( idnull, ref42 ); executeAction( idslct, desc77, DialogModes.ALL );} catch(e){if (e.toString().indexOf(ErrStrs.USER_CANCELLED)!=-1) {;} else{alert(localize("$$$/ScriptingSupport/Error/CommandNotAvailable=The command is currently not available"));}}]]></script>
+          <eventListeners>
+            <function id="onClick" actionType="jsfunction" jsFunctionName="ps_invoke_script">
+              <param id="script"/>
+            </function>
+          </eventListeners>
+        </ps_command>
+      </hbox>
+      <hbox _itemId="container_hbox" toolTip="$$$/Configurator/Container/HBox/desc" label="$$$/Configurator/key_###128" width="100%" cfgVisible="$$$/Configurator/Attribute/visible/value###129" x="21" y="216">
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###136" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###137" cfgVisible="$$$/Configurator/Attribute/visible/value###138" fileUrl="$$$/Configurator/key_###139" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" width="100%"/>
+        <ps_script_file _itemId="ps_actionscript_scriptfile" label="$$$/Configurator/ActionScript/ScriptFile/name###144" toolTip="$$$/Configurator/ActionScript/ScriptFile/desc###145" cfgVisible="$$$/Configurator/Attribute/visible/value###146" fileUrl="$$$/Configurator/key_###147" icon="ps_script_file" overIcon="ps_script_file_r" showIcon="false" width="100%"/>
+      </hbox>
+      <hrule _itemId="widget_hrule" toolTip="$$$/Configurator/Widget/HRule/desc" width="100%" height="1" cfgVisible="$$$/Configurator/Attribute/visible/value###122"/>
+      <html _itemId="widget_html" toolTip="$$$/Configurator/Widget/HTML/desc" backwardToolTip="$$$/Configurator/Widget/HTML/backwardToolTip" forwardToolTip="$$$/Configurator/Widget/HTML/forwardToolTip" browseListToolTip="$$$/Configurator/Widget/HTML/browseListToolTip" locationTextToolTip="$$$/Configurator/Widget/HTML/locationTextToolTip" offlinePromptTitle="$$$/Configurator/Widget/HTML/offlinePromptTitle" offlinePromptDetail="$$$/Configurator/Widget/HTML/offlinePromptDetail" netUnAvailablePromptTitle="$$$/Configurator/Widget/HTML/netUnAvailablePromptTitle" netUnAvailablePromptDetail="$$$/Configurator/Widget/HTML/netUnAvailablePromptDetail" loadingText="$$$/Configurator/Widget/HTML/loadingText" homeText="$$$/Configurator/Widget/HTML/homeText" reloadText="$$$/Configurator/Widget/HTML/reloadText" reloadLabel="$$$/Configurator/Widget/HTML/reloadLabel" escCloseText="$$$/Configurator/Widget/HTML/escCloseText" showNavBar="$$$/Configurator/Attribute/showNavBar/value###123" location="$$$/Configurator/key_###124" homeLocation="$$$/Configurator/key_###125" width="100%" height="60" cfgVisible="$$$/Configurator/Attribute/visible/value###126">
+        <htmlText><![CDATA[$$$/Configurator/key_###127]]></htmlText>
+      </html>
+    </vbox>
+  </ConfiguratorPanel>
+</gpc>

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Help</title>
+<style type="text/css">
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #999;
+}
+
+body.dark {
+	color: #999;
+}
+
+body.light {
+	color: #222222;
+}
+
+a {
+	color: #DDD;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #EEE;
+	text-decoration: underline;
+}
+
+body.dark a {
+	color: #DDD;
+}
+
+body.dark a:hover {
+	color: #EEE;
+}
+
+body.light a {
+	color: #666;
+}
+
+body.light a:hover {
+	color: #888;
+}
+</style>
+
+<script type="application/javascript">
+	function onThemeChanged(event) {
+		document.body.bgColor = event.appSkinInfo.panelBackgroundColor;
+		if(event.isLight) {
+			document.body.className = "light";
+		}else {
+			document.body.className = "dark";
+		}
+	}
+</script>
+
+</head>
+
+<body onload="addEventListener('ThemeChangedEvent', onThemeChanged)">
+<p><a href="http://thebitcave.com/2012/12/09/divine-proportions-toolkit-documentation/" target="_AdobePopupHTML(width=900,height=600)">Open online documentation.</a></p>
+</body>
+</html>

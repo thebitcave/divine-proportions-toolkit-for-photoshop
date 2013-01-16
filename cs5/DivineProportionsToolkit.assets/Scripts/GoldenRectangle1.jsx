@@ -1,0 +1,1 @@
+﻿/*    Generates an horizontal Golden Rectangle frame*/#target photoshop#include "Common.jsx"var shapeName = "Golden Rectangle";#include "ScriptOpen.jsx"     makeGoldenRectangleSelection(true);    addFrame();#include "ScriptClose.jsx"
