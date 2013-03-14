@@ -1,1 +1,1 @@
-﻿/*    Makes a vertical Golden Rectangle selection*/#target photoshop#include "Common.jsx"var shapeName = null;#include "ScriptOpen.jsx"     makeGoldenRectangleSelection(false);    hadSelection = true; // set to true so the selection will remain#include "ScriptClose.jsx"
+﻿/*    Makes a vertical Golden Rectangle selection*/#target photoshop#include "Common.jsx"var shapeName = "";#include "ScriptOpen.jsx"     makeGoldenRectangleSelection(false);    hadSelection = true; // set to true so the selection will remain#include "ScriptClose.jsx"
