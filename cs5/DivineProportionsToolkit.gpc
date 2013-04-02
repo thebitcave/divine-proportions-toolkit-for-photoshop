@@ -2,7 +2,7 @@
 <gpc defaultLocale="en_US" version="3" keySequence="147" currentLocale="en_US">
   <product appid="PHSP" version="12" name="Photoshop CS5/CS5.1"/>
   <target id="PHSP-12"/>
-  <ConfiguratorPanel name="Divine Proportions Toolkit" width="320" height="340" minWidth="320" minHeight="340" maxWidth="320" maxHeight="340" init="doInit" close="doClose" persistent="true" extensionId="com.thebitcave.divineproportionstoolkit" extensionVersion="1.0.3" menuName="Divine Proportions Toolkit" normalIcon="icons/app_icon_up.png" rollOverIcon="icons/app_icon_over.png">
+  <ConfiguratorPanel name="Divine Proportions Toolkit" width="320" height="340" minWidth="320" minHeight="340" maxWidth="320" maxHeight="340" init="doInit" close="doClose" persistent="true" extensionId="com.thebitcave.divineproportionstoolkitlite" extensionVersion="1.0.4" menuName="Divine Proportions Toolkit" normalIcon="icons/app_icon_up.png" rollOverIcon="icons/app_icon_over.png">
     <onInit><![CDATA[]]></onInit>
     <extensionDescription><![CDATA[]]></extensionDescription>
     <extensionAuthor><![CDATA[The Bit Cave]]></extensionAuthor>

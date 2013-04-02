@@ -16,4 +16,6 @@ Documentation on how to use the toolkit can be found [on my website](http://theb
 
 # Binary Download
 
-[Release 1.0.3](http://thebitcave.files.wordpress.com/2012/12/divine_proportions_toolkit_1_0_3.zip)
+[Release 1.0.4](http://thebitcave.files.wordpress.com/2012/12/divine_proportions_toolkit_1_0_4.zip)
+
+alternatively you can download the file directly from [Adobe Exchange](http://bit.ly/UorAAt)

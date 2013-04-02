@@ -2,7 +2,7 @@
 <gpc defaultLocale="en_US" version="3" keySequence="124" currentLocale="en_US">
   <product appid="PHSP" version="13" name="Photoshop CS6"/>
   <target id="PHSP-13"/>
-  <ConfiguratorPanel name="Divine Proportions Toolkit" width="200" height="230" init="doInit" close="doClose" persistent="true" extensionId="com.thebitcave.cs6.divineproportionstoolkit" extensionVersion="1.0.3" menuName="Divine Proportions Toolkit" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about" minWidth="200" minHeight="230" maxWidth="200" maxHeight="230" normalIcon="icons/app_icon_dark_theme.png" darkNormalIcon="icons/app_icon_light_theme.png">
+  <ConfiguratorPanel name="Divine Proportions Toolkit" width="200" height="230" init="doInit" close="doClose" persistent="true" extensionId="com.thebitcave.cs6.divineproportionstoolkitlite" extensionVersion="1.0.4" menuName="Divine Proportions Toolkit" flyoutMenuAbout="$$$/Configurator/FlyoutMenu/about" minWidth="200" minHeight="230" maxWidth="200" maxHeight="230" normalIcon="icons/app_icon_dark_theme.png" darkNormalIcon="icons/app_icon_light_theme.png">
     <onInit><![CDATA[]]></onInit>
     <aboutBox><![CDATA[]]></aboutBox>
     <extensionDescription><![CDATA[]]></extensionDescription>
