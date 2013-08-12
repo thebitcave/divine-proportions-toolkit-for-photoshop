@@ -254,6 +254,11 @@ form {
 }
 
 img {
+/*  width: 100%;  */
+  max-width: 100%;
+}
+
+img.fullsize {
   width: 100%;
   max-width: 100%;
 }
