@@ -16,6 +16,4 @@ Documentation on how to use the toolkit can be found on [GitHub pages](http://ma
 
 # Binary Download
 
-[Release 1.0.4 (.zip file)](https://github.com/marcosecchi/divine_proportions_toolkit/zipball/master)
-
-[Release 1.0.4 (.tar.gz file)](https://github.com/marcosecchi/divine_proportions_toolkit/tarball/master)
+[Release 1.0.4](http://marcosecchi.github.io/divine_proportions_toolkit/assets/divine_proportions_toolkit_1_0_4.zip)
