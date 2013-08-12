@@ -12,10 +12,10 @@ This extension is developed using [Adobe Configurator 3](http://labs.adobe.com/d
 
 ## Reference and Documentation
 
-Documentation on how to use the toolkit can be found [on my website](http://thebitcave.com/2012/12/09/divine-proportions-toolkit-documentation/).
+Documentation on how to use the toolkit can be found on [GitHub pages](http://marcosecchi.github.io/divine_proportions_toolkit/).
 
 # Binary Download
 
-[Release 1.0.4](http://thebitcave.files.wordpress.com/2012/12/divine_proportions_toolkit_1_0_4.zip)
+[Release 1.0.4 (.zip file)](https://github.com/marcosecchi/divine_proportions_toolkit/zipball/master)
 
-alternatively you can download the file directly from [Adobe Exchange](http://bit.ly/UorAAt)
+[Release 1.0.4 (.tar.gz file)](https://github.com/marcosecchi/divine_proportions_toolkit/tarball/master)
