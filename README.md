@@ -1,5 +1,7 @@
 # Divine Proportions Toolkit
 
+_Please note that this project is no longer under active developement._
+
 This toolkit eases the process of composing your work (be it a photograph or a design) with a list of features and functionalities that create shapes mocking the divine proportions.
 
 Using the kit is really simple: just select a layer, make a marquee selection and choose the path type you need.
