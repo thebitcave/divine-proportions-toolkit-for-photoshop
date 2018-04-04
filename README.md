@@ -1,6 +1,6 @@
 # Divine Proportions Toolkit
 
-_Please note that this project is no longer under active developement._
+_Please note that this project is no longer under active developement. Additionally, as Adobe dropped support for this kind of technology, it won't work with newer versions of Photoshop_
 
 This toolkit eases the process of composing your work (be it a photograph or a design) with a list of features and functionalities that create shapes mocking the divine proportions.
 
