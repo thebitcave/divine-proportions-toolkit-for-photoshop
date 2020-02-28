@@ -14,7 +14,7 @@ This extension is developed using [Adobe Configurator 3](http://labs.adobe.com/d
 
 ## Reference and Documentation
 
-Documentation on how to use the toolkit can be found on [GitHub pages](http://marcosecchi.github.io/divine-proportions-toolkit-for-photoshop/).
+Documentation on how to use the toolkit can be found on [GitHub pages](http://thebitcave.github.io/divine-proportions-toolkit-for-photoshop/).
 
 # Binary Download
 
